@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament that whatsoever souldier or souldiers shall breake open, pillage, or ransacke any mans house under colour that they are papists or persons dis-affected, without command of their captaine, shall be pursued and punished according to the law as felons : also a speciall order of both Houses concerning irregular printing and for the suppressing of all false and scandalous pamphlets.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21970</idno><idno type="EEBO-CITATION">12264217</idno>
+  <idno type="VID">197564</idno>
+  <idno type="EEBO-PROQUEST">2240953557</idno>
+  
+            <idno type="STC">Wing E1467</idno>
+            <idno type="OCLC">12264217</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21970)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197564)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E114, no 32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament that whatsoever souldier or souldiers shall breake open, pillage, or ransacke any mans house under colour that they are papists or persons dis-affected, without command of their captaine, shall be pursued and punished according to the law as felons : also a speciall order of both Houses concerning irregular printing and for the suppressing of all false and scandalous pamphlets.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright,</publisher>
+                  <pubPlace>... London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197564:1"/>
+            <pb facs="tcp:197564:1"/>
+            <p>A DECLARATION Of the LORDS and COMMONS Assembled in PARLIAMENT, That whatsoever Souldier or Souldi<g ref="char:EOLhyphen"/>ers shall breake open, pillage, or ransacke any mans House, under colour that they are Papists, or persons dis-affected (without Command of their Captaine) shall be pursued and punished accor<g ref="char:EOLhyphen"/>ding to the Law as Felons. <hi>Also</hi> A Speciall Order of both Houses concerning Irregular Printing, and for the suppressing of all false and Scandalous Pamphlets.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <opener>
+                              <dateline>
+                                 <date>Die Sabbathi, August. 27. 1642.</date>
+                              </dateline>
+                           </opener>
+                           <p>
+                              <hi>Ordered by the Lords and Commons, that this Declaration and Order be forthwith Printed and Published.</hi>
+                           </p>
+                           <closer>
+                              <signed>Iohn Browne Cler. Parliament.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>August</hi> 29. London Printed for <hi>Iohn Wright.</hi> 1642.</p>
+            <pb facs="tcp:197564:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:197564:2"/>
+            <head>A Declaration of the Lords and Commons Assembled in PARLIAMENT.</head>
+            <p>WHereas diverse Souldiers have in a tumultuous and violent manner broken into diverse of the Kings Subjects houses, pillaged and ransacked them, un<g ref="char:EOLhyphen"/>der colour that they are Papists-Houses, or the houses of persons disaffected; The Lords and Commons taking the premises into consideration, doe declare and Order, that whatsoever Souldier or Souldiers, shall without the command of the Cap<g ref="char:EOLhyphen"/>taines of their respective Companies, or the Officers of the field, attempt upon, or breake open any houses whatsoever, or pillage or ransacke any house, shall be pur<g ref="char:EOLhyphen"/>sued and punisht, according to the Law as a Felon, And the said Lords and Com<g ref="char:EOLhyphen"/>mons
+<pb facs="tcp:197564:3"/> doe require all Officers of the Army to imploy their best endeavours, for the bringing of any such Souldiers that shall commit any of the insolencies aforesaid, to condigne punishment, that they may be severely and effectually proceeded a<g ref="char:EOLhyphen"/>gainst, according to Law. And the Lord Generall is desired, that this Order may be duely published in the Army, in the head of each particular Company.</p>
+         </div>
+         <div type="order_to_print">
+            <p>
+               <hi>Ordered by the Lords and Commons assem<g ref="char:EOLhyphen"/>bled in Parliament, that this Order be forth<g ref="char:EOLhyphen"/>with Printed and published.</hi>
+            </p>
+            <closer>
+               <signed>John Bro. Cler. Parliamen.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:197564:3"/>
+            <head>
+               <hi>Die Veneris</hi> 26. <hi>Augusti,</hi> 1642.</head>
+            <head type="sub">A speciall Order of both Houses concerning irregular Printing, and for the suppressing of all false and scandalous PAMPHLETS.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas there hath beene of late great disorders and abu<g ref="char:EOLhyphen"/>ses by Irregular Printing, to the great scandall of Religion and government, and a Bill is in preparation for the re<g ref="char:EOLhyphen"/>dresse of those mischiefes, which by reason of the present distracti<g ref="char:EOLhyphen"/>ons cannot be so speedily perfe<g ref="char:EOLhyphen"/>cted and passed as is desired; It
+<pb facs="tcp:197564:4"/> is therefore Ordered by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment, that no person or persons shall Print, publish, or utter, any Booke or Pamphlet, false or scandalous, to the proceedings of the Houses of Parliament, or ei<g ref="char:EOLhyphen"/>ther of them, nor shall Print, ut<g ref="char:EOLhyphen"/>ter, or publsh, any Booke or Pamphlet, with the name of the Clerke of either House of Parli<g ref="char:EOLhyphen"/>ament set thereunto, or with any expression, pretence of Order from both or either of the said Houses, without speciall Order from the said Houses, or either of them, or of the Committees of them, or either of them concer<g ref="char:EOLhyphen"/>ning Printing; and the same to be entred in the Register Booke of
+<pb facs="tcp:197564:4"/> the said Company, according to the ancient custome; and the Master &amp; Wardens of the com<g ref="char:EOLhyphen"/>pany of Stationers <hi>London,</hi> and the Vsher of the Black-rod, and Serjeant of the commons House of Parliament and their Depu<g ref="char:EOLhyphen"/>ties, are hereby authorized and required, to make diligent search from time to time, for all such Bookes and Pamphlets, to bee hereafter Printed, and the same to seize, and take, together with the presses, and other printing Materials, wherewith the same shall be printed; and carry them to the common-hall of the said company, there to remaine till either House of Parliament shall otherwise dispose thereof; And
+<pb facs="tcp:197564:5"/> all his Majesties Officers shal up<g ref="char:EOLhyphen"/>on request, ayde and assist to ap<g ref="char:EOLhyphen"/>prehend offenders in the premi<g ref="char:EOLhyphen"/>ses, and to bring them before the Lords or Commons House of Parliament, or the Committees appoynted for Printing, upon whose report of the Fact, such course shall be taken with the said Offenders, as shall be just. And for that purpose the said Committees are to sit at such times and places as they shall thinke fit.</p>
+         </div>
+         <div type="order_to_print">
+            <p>ORdered by the Lords and Commons assembled in Parliament, that these two Orders be forthwith Printed and published.</p>
+            <closer>
+               <signed>John Browne Cler; Parliam.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
